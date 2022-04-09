@@ -1,4 +1,4 @@
 **Name**: Bogdan B. \
-**Languages**: PHP, C#, GO, Js, Java \
+**Languages**: GO, C#, PHP, Js, Java \
 **Frameworks**: Symfony, Vue \
 **Misc.**: Sylius, Unity, Docker, DevOps
