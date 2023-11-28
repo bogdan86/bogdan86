@@ -1,2 +1,2 @@
 **Name**: Bogdan B. \
-**Languages**: GO, C#, PHP, JS, Java
+**Languages**: GO, C#, PHP, JS, Java, Rust
